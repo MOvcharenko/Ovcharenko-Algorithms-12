@@ -1,0 +1,19 @@
+10
+SDT 100,Principles of Programming with Java
+SDT 105,Computer Systems Fundamentals and Assembly Language
+SDT 150,Calculus for Engineers I
+SDT 101,Object-Oriented Programming and Data Structures
+SDT 250,Discrete Mathematical Structures
+SDT 302,Operating Systems and System Programming
+SDT 202,Design and Analysis of Data Structures and Algorithms
+SDT 312,Computer Networks and Information Security
+SDT 213,Introduction to Software Engineering
+SDT 412,Software Architecture Fundamentals
+7
+SDT 100,SDT 101
+SDT 101,SDT 202
+SDT 101,SDT 213
+SDT 105,SDT 302
+SDT 302,SDT 312
+SDT 213,SDT 412
+SDT 150,SDT 250

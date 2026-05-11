@@ -1,19 +1,32 @@
-10
+16
 SDT 100,Principles of Programming with Java
-SDT 105,Computer Systems Fundamentals and Assembly Language
 SDT 150,Calculus for Engineers I
+SDT 105,Computer Systems Fundamentals and Assembly Language
+GEN 120,Introduction to Ethics
 SDT 101,Object-Oriented Programming and Data Structures
+SDT 151,Calculus for Engineers II
+SDT 104,UI Design and AI-Assisted Frontend Development
+SDT 305,Principles of Database Management
 SDT 250,Discrete Mathematical Structures
 SDT 302,Operating Systems and System Programming
 SDT 202,Design and Analysis of Data Structures and Algorithms
+SDT 252,Probability and Statistics for Engineers
 SDT 312,Computer Networks and Information Security
 SDT 213,Introduction to Software Engineering
+SDT 316,Cloud and DevOps Fundamentals
 SDT 412,Software Architecture Fundamentals
-7
+14
 SDT 100,SDT 101
+SDT 100,SDT 104
+SDT 150,SDT 151
+SDT 151,SDT 250
+SDT 151,SDT 252
 SDT 101,SDT 202
 SDT 101,SDT 213
+SDT 101,SDT 305
 SDT 105,SDT 302
 SDT 302,SDT 312
+SDT 213,SDT 316
 SDT 213,SDT 412
-SDT 150,SDT 250
+SDT 202,SDT 412
+SDT 312,SDT 316

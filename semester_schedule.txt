@@ -1,0 +1,53 @@
+========================================
+FOUR-YEAR SEMESTER SCHEDULE
+========================================
+
+----------------------------------------
+Year 1 (Freshman) - Fall Semester
+----------------------------------------
+  • GEN 120: Introduction to Ethics
+  • SDT 105: Computer Systems Fundamentals and Assembly Language
+  • SDT 150: Calculus for Engineers I
+
+----------------------------------------
+Year 1 (Freshman) - Spring Semester
+----------------------------------------
+  • SDT 151: Calculus for Engineers II
+  • SDT 100: Principles of Programming with Java
+  • SDT 104: UI Design and AI-Assisted Frontend Development
+
+----------------------------------------
+Year 2 (Sophomore) - Fall Semester
+----------------------------------------
+  • SDT 101: Object-Oriented Programming and Data Structures
+  • SDT 252: Probability and Statistics for Engineers
+  • SDT 250: Discrete Mathematical Structures
+
+----------------------------------------
+Year 2 (Sophomore) - Spring Semester
+----------------------------------------
+  • SDT 213: Introduction to Software Engineering
+  • SDT 202: Design and Analysis of Data Structures and Algorithms
+
+----------------------------------------
+Year 3 (Junior) - Fall Semester
+----------------------------------------
+  • SDT 302: Operating Systems and System Programming
+  • SDT 312: Computer Networks and Information Security
+
+----------------------------------------
+Year 3 (Junior) - Spring Semester
+----------------------------------------
+  • SDT 305: Principles of Database Management
+  • SDT 316: Cloud and DevOps Fundamentals
+
+----------------------------------------
+Year 4 (Senior) - Fall Semester
+----------------------------------------
+  • SDT 412: Software Architecture Fundamentals
+
+----------------------------------------
+Year 4 (Senior) - Spring Semester
+----------------------------------------
+  No courses scheduled
+

@@ -1,0 +1,22 @@
+========================================
+TOPOLOGICAL ORDER OF COURSES
+========================================
+
+Courses in order (prerequisites first):
+
+ 1. GEN 120: Introduction to Ethics
+ 2. SDT 105: Computer Systems Fundamentals and Assembly Language
+ 3. SDT 302: Operating Systems and System Programming
+ 4. SDT 312: Computer Networks and Information Security
+ 5. SDT 150: Calculus for Engineers I
+ 6. SDT 151: Calculus for Engineers II
+ 7. SDT 252: Probability and Statistics for Engineers
+ 8. SDT 250: Discrete Mathematical Structures
+ 9. SDT 100: Principles of Programming with Java
+10. SDT 104: UI Design and AI-Assisted Frontend Development
+11. SDT 101: Object-Oriented Programming and Data Structures
+12. SDT 305: Principles of Database Management
+13. SDT 213: Introduction to Software Engineering
+14. SDT 316: Cloud and DevOps Fundamentals
+15. SDT 202: Design and Analysis of Data Structures and Algorithms
+16. SDT 412: Software Architecture Fundamentals

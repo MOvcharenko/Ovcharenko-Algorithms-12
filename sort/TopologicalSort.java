@@ -98,21 +98,31 @@ public class TopologicalSort {
     }
     
     /**
-     * Returns a topological order if the digraph has a topological order
-     * @return a topological order of the vertices
+     * Returns a topological order if the digraph has a topological order.
+     * The order is from first to last (prerequisites first, dependent courses last).
+     * Since DFS reverse post-order gives us the correct topological order,
+     * we reverse the stack to get first-to-last order.
+     * 
+     * @return a topological order of the vertices (first course to last course)
      */
     public Iterable<Integer> order() {
         if (hasCycle) return null;
-        return reversePost;
+        
+        // The stack has the last-finished vertex on top
+        // For topological order, we need to reverse it so prerequisites come first
+        List<Integer> list = new ArrayList<>(reversePost);
+        Collections.reverse(list);
+        return list;
     }
     
     /**
-     * Returns a topological order as a list
+     * Returns a topological order as a list (prerequisites first)
      * @return list of vertices in topological order
      */
     public List<Integer> getOrderList() {
         if (hasCycle) return null;
-        List<Integer> orderList = new ArrayList<>(reversePost);
-        return orderList;
+        List<Integer> list = new ArrayList<>(reversePost);
+        Collections.reverse(list); // Reverse to get correct order
+        return list;
     }
 }
